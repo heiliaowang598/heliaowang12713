@@ -59,4 +59,4 @@ Telegram频道传送门：汇集优质频道链接，涵盖黑料爆料、吃瓜
 
 《黑料大事记》专注整理娱乐圈与网络红人爆料事件，涵盖时间线、人物背景与舆论发展，帮助用户快速了解每起黑料的真相，全方位追踪热议焦点。
 
-[Canonical link](）
+[Canonical link](https://github.com/heiliaowang598/heliaowang12713）
